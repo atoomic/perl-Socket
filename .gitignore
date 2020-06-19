@@ -12,3 +12,7 @@ Socket-*
 MYMETA.json
 MYMETA.yml
 *.o
+Socket.bs
+Socket.c
+const-c.inc
+const-xs.inc
